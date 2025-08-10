@@ -47,7 +47,7 @@ successful_resets = 0  # Счётчик успешных сбросов
 for attempt in range(max_attempts):
     try:
         # Пытаемся найти и нажать кнопку "Решить снова"
-        button_retry = WebDriverWait(driver, 3).until(
+        button_retry = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.CSS_SELECTOR, "button.again-btn.white"))
         )
         button_retry.click()
