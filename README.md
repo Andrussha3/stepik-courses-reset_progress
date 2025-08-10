@@ -1,4 +1,4 @@
-# Stepik Course Reset Automation 🔄
+# Автоматический сброс прогресса на курсах на платформе Stepik🔄
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange?logo=selenium)
