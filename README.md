@@ -18,7 +18,11 @@
 ## 🎥 Пример работы программы
 
 
-https://github.com/user-attachments/assets/0c4d7aac-19e9-4c86-94b4-4096f43f831c
+
+
+
+https://github.com/user-attachments/assets/b5bd3e06-b4ab-4bfc-b16b-4426ea663412
+
 
 
 
